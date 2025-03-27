@@ -127,11 +127,17 @@ The recommended measures help organizations both improve their data processing c
 
 # Tools and Technologies
 AWS Cloud Services.
+
 AWS S3 (Simple Storage Service): For raw data ingestion, storage of processed files (CSV, Parquet), and DataBrew/Glue job outputs.
+
 Initial data file staging together with PowerShell script execution takes place on the AWS EC2 (Elastic Compute Cloud) platform.
+
 AWS Glue DataBrew serves as a tool for data profiling and interactive data cleanup in addition to its transformation job execution capabilities.
+
 AWS Glue Data Catalog serves as the central storage facility for metadata organization.
+
 The AWS Glue Crawler function serves as a data catalog population system running automatically.
+
 SQL commands in AWS Athena enable users to extract descriptive statistics from the S3 data that was cataloged through the system.
 
 # Conclusion
