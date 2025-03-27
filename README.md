@@ -57,6 +57,7 @@ Once the transformed dataset was stored in Amazon S3, AWS Athena was utilized to
 Analysis required the execution of one critical SQL statement to determine the average minimum hourly wage in downtown Vancouver for workforce pay trend assessment. 
 Athena enabled effortless extraction of insights from large-scale S3 data because it integrated smoothly with S3 for cost-effective and scalable queries. 
 Athena allowed project users to perform quick and real-time data analysis thus generating essential workforce metrics in an effective manner.
+
 ![image](https://github.com/user-attachments/assets/72847084-1fb9-4f24-900c-43e52183d135)
 
 # 3. Data Visualization
