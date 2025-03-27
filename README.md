@@ -86,6 +86,7 @@ The processed data was then uploaded to the S3 bucket, ensuring a clear distinct
 # Dataset created in passed and failed folders
 ![image](https://github.com/user-attachments/assets/1699c612-2d70-4dc3-82eb-e8ef7f6e0608)
 ![image](https://github.com/user-attachments/assets/6219122f-ec9a-47b5-a24d-3577e87d9257)
+
 # 5. Insights and Findings
 # Insights
 # Gender Pay Gaps:
